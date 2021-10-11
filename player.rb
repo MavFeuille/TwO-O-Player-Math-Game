@@ -16,3 +16,6 @@ attr_accessor :name, :lives
     @lives = 0
   end
 end
+
+player1 = Player.new("player1", 3)
+player2 = Player.new("player2", 3)
