@@ -31,6 +31,7 @@
   ##### State (Variables)
   - name (player1, player2)
   - total no. of lives
+  - turn
   ##### Behavior (Methods)
   - losing life
   - game over (when 1 of them has no life)
